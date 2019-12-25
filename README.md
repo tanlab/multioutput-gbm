@@ -11,7 +11,7 @@ Based on [pygbm](https://github.com/ogrisel/pygbm/)
 
 Use pip to install in "editable" mode:
 
-    git clone https://github.com//tanlab/multioutput-gbm.git
+    git clone https://github.com/tanlab/multioutput-gbm.git
     cd pygbm
     pip install -r requirements.txt
     pip install --editable .
