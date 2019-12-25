@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a9e1c92-b342-4b28-aa51-79bc109b4983" name="Default Changelist" comment="clean-up" />
+    <list default="true" id="3a9e1c92-b342-4b28-aa51-79bc109b4983" name="Default Changelist" comment="clean-up">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +27,7 @@
   <component name="ProjectId" id="1TQP5LZ9Yy1Qtc7RIgmBmjCkFC2" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/pylearn2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -153,6 +156,7 @@
       <workItem from="1574522608924" duration="78000" />
       <workItem from="1574890374101" duration="233000" />
       <workItem from="1576962834551" duration="2953000" />
+      <workItem from="1577282325705" duration="1640000" />
     </task>
     <task id="LOCAL-00001" summary="Either halts or numba crashes">
       <created>1573406466637</created>
